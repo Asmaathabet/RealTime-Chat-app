@@ -12,7 +12,7 @@ npm install --save cors nodemon express socket.io
 ### create client Folder
 create React app by typing the following in the terminal
 ```
-cd client 
-create-react-app ./ 
-npm install --save react-router socket.io-client react-scroll-to-bottom react-emoji query-string 
+> cd client 
+> create-react-app ./ 
+> npm install --save react-router socket.io-client react-scroll-to-bottom react-emoji query-string react-router-dom
 ```
